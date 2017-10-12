@@ -8,5 +8,7 @@ namespace Zarzadzanie_pojazdamia_s3
 {
     class PojLad
     {
+
+
     }
 }
